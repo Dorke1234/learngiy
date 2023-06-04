@@ -84,3 +84,7 @@ while ((geo < 0) || (geo > 100))
 Console.WriteLine("Caculating.....");
 Thread.Sleep(2000);
 Console.WriteLine((math + english + history + bio + geo) / 5);
+
+
+
+//Hello
