@@ -1,0 +1,15 @@
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/bin/Debug/net7.0/Dor's project 2
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/bin/Debug/net7.0/Dor's project 2.deps.json
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/bin/Debug/net7.0/Dor's project 2.runtimeconfig.json
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/bin/Debug/net7.0/Dor's project 2.dll
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/bin/Debug/net7.0/Dor's project 2.pdb
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.csproj.AssemblyReference.cache
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.AssemblyInfoInputs.cache
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.AssemblyInfo.cs
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.csproj.CoreCompileInputs.cache
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.dll
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/refint/Dor's project 2.dll
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.pdb
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/Dor's project 2.genruntimeconfig.cache
+/Users/dorkoren/Desktop/VS automations/Dor's project 2/Dor's project 2/obj/Debug/net7.0/ref/Dor's project 2.dll
